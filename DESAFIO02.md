@@ -2,6 +2,7 @@
 Programa de seleção da empresa IDS
 Programa para mostrar todos os numeros n menores que 10.000, onde n e n + 1 possuem o mesmo número de divisores.
 
+====================================================================================
 
 Passos para executar o programa em Java.
  1 - Salve o arquivo o programa em alguma Pasta do Windows.
@@ -11,6 +12,15 @@ Passos para executar o programa em Java.
      Por exemplo, se você estiver no diretório C:\Users\Bob\Project e quiser acessar a pasta C:\Users\Bob\Project\TitanProject , digite cd TitanProject e pressione ↵          Enter. Para mostrar uma lista com todos os arquivos e pastas do diretório atual, digite dir no Windows ou ls no Mac e pressione ↵ Enter
  5 - Execute o programa. Digite java arquivo e pressione ↵ Enter. Lembre-se de que você deve trocar "arquivo" pelo nome do arquivo do seu programa.
      Após pressionar ↵ Enter, o programa deve rodar.
+     
+ ======================================================================================= 
+  
+  Tecnologias utilizadas:
+  1 - Java\jdk1.8.0_311
+  2 - Prompt de Comando do DOS.
+  3 - Bloco de Notas
+     
+=======================================================================================
      
 public class NumDivisor
 {
